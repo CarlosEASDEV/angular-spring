@@ -1,0 +1,4 @@
+com\infobase\cadastro\Usuario.class
+com\infobase\cadastro\UsuarioController.class
+com\infobase\cadastro\CadastroApplication.class
+com\infobase\cadastro\UsuarioRepository.class
